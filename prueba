@@ -5,7 +5,7 @@
     "info": "a",
     "telegram": "0",
     "url": "https://raw.githubusercontent.com/urkoperez16/prueba/main/prueba", 
-    {
+    "groups": [{
 	"name": "Leip-City",
 		"image": "https://i.ibb.co/Nn2YtQG/logo-category-Movistar.png",
 		"info": "",
@@ -70,3 +70,8 @@
 		   "url" : "https://sportskart.click/embed/stream-32.php",
 		 "ishost" : "true"
 	 }
+ ]
+    }
+  ]
+}]
+}
