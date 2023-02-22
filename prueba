@@ -7,11 +7,11 @@
     "url": "https://raw.githubusercontent.com/urkoperez16/prueba/main/prueba", 
     "groups": [{
 	"name": "Leip-City",
-		"image": "https://i.ibb.co/Nn2YtQG/logo-category-Movistar.png",
+		"image": "https://www.ole.com.ar/2023/02/21/MyiiTB9kd_400x400__1.jpg",
 		"info": "",
 		"stations": [{
 			"name": "MULTI",
-		  "image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
+		  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png",
 		   "url" : "https://sportskart.click/embed/stream-427.php",
 		  "userAgent" : "PlusMediaPlayer/0.0.9"
 	 }, {
@@ -23,17 +23,17 @@
 		"ishost":"true" 	  
   }, {
 		"name": "ARABE",
-		  "image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
+		  "image": "https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/News-1.png",
 		   "url" : "https://sportskart.click/embed/stream-98.php",
 		 "ishost" : "true"
 	 }, {
 			"name": "ARGENTINO",
-		  "image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
+		  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png",
 		   "url" : "https://sportskart.click/embed/stream-12.php",
 		 "ishost" : "true"
 	 }, {
 		"name": "INGLES",
-		  "image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
+		  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg",
 		   "url" : "https://sportskart.click/embed/stream-31.php",
 		 "ishost" : "true"
 	}]
@@ -41,11 +41,11 @@
 					
 {
 	"name": "Inter-Porto",
-		"image": "https://i.ibb.co/Nn2YtQG/logo-category-Movistar.png",
+		"image": "https://www.ole.com.ar/images/2023/02/21/u1xBXhfnJ_1290x760__1.jpg",
 		"info": "",
 		"stations": [{
 			"name": "MULTI",
-		  "image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
+		  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png",
 		   "url" : "https://sportskart.click/embed/stream-559.php",
 		  "userAgent" : "PlusMediaPlayer/0.0.9"
 	 }, {
@@ -57,17 +57,17 @@
 		"ishost":"true" 	  
   }, {
 		"name": "ARABE",
-		  "image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
+		  "image": "https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/News-1.png",
 		   "url" : "https://sportskart.click/embed/stream-99.php",
 		 "ishost" : "true"
 	 }, {
 			"name": "ARGENTINO",
-		  "image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
-		   "url" : "https://sportskart.click/embed/stream-13.php",
+		  "image": "https://yt3.googleusercontent.com/ytc/AL5GRJWqjv5wZs_55a9iwV2NGCTwD4V2Ob1cPQJBXTK1BRs=s900-c-k-c0x00ffffff-no-rj",
+		   "url" : "https://sportskart.click/embed/stream-149.php",
 		 "ishost" : "true"
 	 }, {
 		"name": "INGLES",
-		  "image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
+		  "image": "https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1540.1647385004.png",
 		   "url" : "https://sportskart.click/embed/stream-32.php",
 		 "ishost" : "true"
 	 }
