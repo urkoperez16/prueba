@@ -1,0 +1,72 @@
+{
+	"name": "prueba",
+    "author": "nadie",
+    "image": "https://i.ibb.co/jRKnqsC/Pic-Profile-SV.png",
+    "info": "a",
+    "telegram": "0",
+    "url": "https://raw.githubusercontent.com/MoDz17/IPTV_MoDz/main/code_iptv", 
+    {
+	"name": "Leip-City",
+		"image": "https://i.ibb.co/Nn2YtQG/logo-category-Movistar.png",
+		"info": "",
+		"stations": [{
+			"name": "MULTI",
+		  "image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
+		   "url" : "https://sportskart.click/embed/stream-427.php",
+		  "userAgent" : "PlusMediaPlayer/0.0.9"
+	 }, {
+		"name": "Canal 2",
+		"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
+		"url" : "https://sportskart.click/embed/stream-435.php",
+		"desktop": "true",
+		"online":"true",
+		"ishost":"true" 	  
+  }, {
+		"name": "ARABE",
+		  "image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
+		   "url" : "https://sportskart.click/embed/stream-98.php",
+		 "ishost" : "true"
+	 }, {
+			"name": "ARGENTINO",
+		  "image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
+		   "url" : "https://sportskart.click/embed/stream-12.php",
+		 "ishost" : "true"
+	 }, {
+		"name": "INGLES",
+		  "image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
+		   "url" : "https://sportskart.click/embed/stream-31.php",
+		 "ishost" : "true"
+	 },
+
+ {
+	"name": "Inter-Porto",
+		"image": "https://i.ibb.co/Nn2YtQG/logo-category-Movistar.png",
+		"info": "",
+		"stations": [{
+			"name": "MULTI",
+		  "image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
+		   "url" : "https://sportskart.click/embed/stream-559.php",
+		  "userAgent" : "PlusMediaPlayer/0.0.9"
+	 }, {
+		"name": "Canal 2",
+		"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
+		"url" : "https://sportskart.click/embed/stream-4.php",
+		"desktop": "true",
+		"online":"true",
+		"ishost":"true" 	  
+  }, {
+		"name": "ARABE",
+		  "image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
+		   "url" : "https://sportskart.click/embed/stream-99.php",
+		 "ishost" : "true"
+	 }, {
+			"name": "ARGENTINO",
+		  "image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
+		   "url" : "https://sportskart.click/embed/stream-13.php",
+		 "ishost" : "true"
+	 }, {
+		"name": "INGLES",
+		  "image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
+		   "url" : "https://sportskart.click/embed/stream-32.php",
+		 "ishost" : "true"
+	 }
