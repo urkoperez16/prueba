@@ -2,11 +2,11 @@
 	"name": "prueba",
     "author": "nadie",
     "image": "https://i.ibb.co/jRKnqsC/Pic-Profile-SV.png",
-    "info": "a",
+    "info": "",
     "telegram": "0",
     "url": "https://raw.githubusercontent.com/urkoperez16/prueba/main/prueba", 
     "groups": [{
-	"name": "Leip-City",
+	"name": "Champions League",
 		"image": "https://www.ole.com.ar/2023/02/21/MyiiTB9kd_400x400__1.jpg",
 		"info": "",
 		"stations": [{
@@ -36,7 +36,6 @@
 		  "image": "https://media.info/i/lf/0/1647384977/1539.png",
 		   "url" : "https://sportskart.click/embed/stream-31.php",
 		 "ishost" : "true"
-	}]
 		}, 
 					
 {
