@@ -12,7 +12,7 @@
 		
 		"name": "Principales"
 		"image":
-		"stations": [
+		"stations": [{
 
 			"name": "MULTI",
 		  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png",
@@ -47,6 +47,7 @@
 		"image": "https://www.ole.com.ar/images/2023/02/21/u1xBXhfnJ_1290x760__1.jpg",
 		"info": "",
 		"stations": [{
+		
 		  "name": "MULTI",
 		  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png",
 		   "url" : "https://sportskart.click/embed/stream-559.php",
